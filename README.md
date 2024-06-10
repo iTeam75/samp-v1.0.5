@@ -82,10 +82,12 @@ Pastikan untuk mengimplementasikan fitur-fitur ini dengan baik dan mengikuti pra
 
 ---
 
-## Credit
+---
 
-- **LNH ShiroNeko**: Kontributor utama untuk proyek ini.
-- **Baynnniq** : Remake From basic To Minim
+## Credits
+
+- **LNH ShiroNeko**: Kontributor utama dan pengembang inti proyek ini.
+- **Baynnniq**: Kontributor tambahan dan pengembang fitur-fitur khusus.
 - **Comunitas SAMP**: Terima kasih atas dukungan dan kontribusi dari seluruh anggota komunitas.
 
-Jangan lupa untuk menghormati dan mengakui kontribusi dari semua orang yang terlibat dalam proyek ini.
+Kami menghargai kerja keras dan dedikasi dari semua orang yang terlibat dalam proyek ini.
