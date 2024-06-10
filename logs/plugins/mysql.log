@@ -1,0 +1,50 @@
+[15:08:32] [WARNING] mysql_connect: no password specified
+[15:19:33] [WARNING] mysql_connect: no password specified
+[15:27:06] [WARNING] mysql_connect: no password specified
+[15:45:05] [WARNING] mysql_connect: no password specified
+[15:51:36] [WARNING] mysql_connect: no password specified
+[16:39:35] [WARNING] mysql_connect: no password specified
+[16:39:53] [ERROR] error #1146 while executing query "SELECT id FROM users WHERE name = 'Lukman'": Table 'testsamp.users' doesn't exist
+[16:40:42] [WARNING] mysql_connect: no password specified
+[16:58:37] [WARNING] mysql_connect: no password specified
+[17:01:39] [ERROR] mysql_format: destination size '256' is too small
+[17:01:39] [ERROR] error #1065 while executing query "": Query was empty
+[17:03:30] [WARNING] mysql_connect: no password specified
+[17:25:31] [WARNING] mysql_connect: no password specified
+[17:27:00] [ERROR] mysql_format: destination size '256' is too small
+[17:27:00] [ERROR] error #1065 while executing query "": Query was empty
+[17:27:04] [WARNING] mysql_connect: no password specified
+[17:27:27] [ERROR] mysql_format: destination size '256' is too small
+[17:27:27] [ERROR] error #1065 while executing query "": Query was empty
+[17:28:54] [WARNING] mysql_connect: no password specified
+[17:30:31] [WARNING] mysql_connect: no password specified
+[17:32:42] [WARNING] mysql_connect: no password specified
+[17:33:21] [WARNING] mysql_connect: no password specified
+[17:33:56] [ERROR] mysql_format: destination size '256' is too small
+[17:33:56] [ERROR] error #1065 while executing query "": Query was empty
+[17:37:15] [WARNING] mysql_connect: no password specified
+[17:37:45] [ERROR] mysql_format: destination size '256' is too small
+[17:37:45] [ERROR] error #1065 while executing query "": Query was empty
+[17:39:03] [WARNING] mysql_connect: no password specified
+[17:41:40] [WARNING] mysql_connect: no password specified
+[17:45:03] [WARNING] mysql_connect: no password specified
+[17:46:46] [WARNING] mysql_connect: no password specified
+[17:47:43] [WARNING] mysql_connect: no password specified
+[18:15:28] [WARNING] mysql_connect: no password specified
+[18:17:18] [WARNING] mysql_connect: no password specified
+[18:19:49] [WARNING] mysql_connect: no password specified
+[18:34:44] [WARNING] mysql_connect: no password specified
+[19:25:53] [WARNING] mysql_connect: no password specified
+[19:28:58] [WARNING] mysql_connect: no password specified
+[22:12:39] [WARNING] mysql_connect: no password specified
+[22:12:41] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:12:43] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:12:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:12:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:12:47] [WARNING] mysql_connect: no password specified
+[22:12:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = '127.0.0.1', username = 'root' and database = 'testsamp'
+[22:12:47] [WARNING] mysql_connect: no password specified
+[22:12:47] [WARNING] duplicate connection detected: handle id 1 already exists with host = '127.0.0.1', username = 'root' and database = 'testsamp'
+[22:53:50] [WARNING] mysql_connect: no password specified
+[22:53:52] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:53:54] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
