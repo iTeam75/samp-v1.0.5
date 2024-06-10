@@ -1,9 +1,10 @@
 Ниже приводится более подробное объяснение функций проекта SAMP версии 1.0.5:
 
 1. **Login dan Registrasi:**
-   - Эта функция позволяет игрокам создать учетную запись и войти в игру.
-   - Пользователь вводит такую информацию, как имя пользователя и пароль.
-   - Данные учетной записи могут храниться в файлах
+   - Fitur ini memungkinkan pemain untuk membuat akun dan masuk ke dalam permainan.
+   - Pengguna akan memasukkan informasi seperti nama pengguna dan kata sandi.
+   - Data akun dapat disimpan dalam file teks atau database.
+   - Berikut adalah contoh kode untuk sistem login dan registrasi:
 
      ```pawn
      // File: login_register.pwn
@@ -45,7 +46,7 @@
      }
      ```
 
-2. **Fitur Admin:**
+3. **Fitur Admin:**
    - Fitur ini diperuntukkan bagi administrator server.
    - Admin memiliki akses khusus untuk mengelola pemain, mengawasi aktivitas, dan mengambil tindakan tertentu.
    - Contoh tindakan admin termasuk mengeluarkan pemain, memberikan hukuman, atau mengubah pengaturan server.
@@ -83,7 +84,8 @@ Pastikan untuk mengimplementasikan fitur-fitur ini dengan baik dan mengikuti pra
 
 ## Credit
 
-- **LNH ShiroNeko & Baynnniq**: Kontributor utama untuk proyek ini.
+- **LNH ShiroNeko**: Kontributor utama untuk proyek ini.
+- **Baynnniq** : Remake From basic To Minim
 - **Comunitas SAMP**: Terima kasih atas dukungan dan kontribusi dari seluruh anggota komunitas.
 
 Jangan lupa untuk menghormati dan mengakui kontribusi dari semua orang yang terlibat dalam proyek ini.
