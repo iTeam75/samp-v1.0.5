@@ -1,10 +1,9 @@
-Tentu, berikut adalah penjelasan lebih rinci untuk fitur-fitur pada proyek SAMP versi 1.0.5:
+Ниже приводится более подробное объяснение функций проекта SAMP версии 1.0.5:
 
 1. **Login dan Registrasi:**
-   - Fitur ini memungkinkan pemain untuk membuat akun dan masuk ke dalam permainan.
-   - Pengguna akan memasukkan informasi seperti nama pengguna dan kata sandi.
-   - Data akun dapat disimpan dalam file teks atau database.
-   - Berikut adalah contoh kode untuk sistem login dan registrasi:
+   - Эта функция позволяет игрокам создать учетную запись и войти в игру.
+   - Пользователь вводит такую информацию, как имя пользователя и пароль.
+   - Данные учетной записи могут храниться в файлах
 
      ```pawn
      // File: login_register.pwn
