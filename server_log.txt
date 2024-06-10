@@ -1,0 +1,561 @@
+.
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:29] 
+[23:12:29] Server Plugins
+[23:12:29] --------------
+[23:12:29]  Loading plugin: crashdetect.so
+[23:12:29]   CrashDetect plugin 4.20
+[23:12:29]   Loaded.
+[23:12:29]  Loading plugin: mysql.so
+[23:12:29]  >> plugin.mysql: R41-4 successfully loaded.
+[23:12:29]   Loaded.
+[23:12:29]  Loading plugin: streamer.so
+[23:12:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:12:29]   Loaded.
+[23:12:29]  Loading plugin: sscanf.so
+[23:12:29] 
+
+[23:12:29]  ===============================
+
+[23:12:29]       sscanf plugin loaded.     
+
+[23:12:29]          Version:  2.8.3        
+
+[23:12:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:12:29]  ===============================
+
+[23:12:29]   Loaded.
+[23:12:29]  Loaded 4 plugins.
+
+[23:12:29] 
+[23:12:29] Filterscripts
+[23:12:29] ---------------
+[23:12:29]   Loading filterscript 'scar.amx'...
+[23:12:29]   Loaded 1 filterscripts.
+
+[23:12:29] [MySQL] Menghubungkan ke database...
+[23:12:29] [MySQL] Koneksi ke database berhasil! Menangani: 1
+[23:12:29] Loaded 3 vehicles from: vehicles/trains.txt
+[23:12:29] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:12:29] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:12:29] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:12:29] [debug] Long callback execution detected (hang or performance issue)
+[23:12:29] [debug] AMX backtrace:
+[23:12:29] [debug] #0 0000071c in ?? (182752, 182496, 44, 39) in new.amx
+[23:12:29] [debug] #1 00000488 in ?? (160916) in new.amx
+[23:12:29] [debug] #2 000009f0 in public OnGameModeInit () in new.amx
+[23:12:29] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:12:29] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:12:29] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:12:29] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:12:29] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:12:29] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:12:29] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:12:30] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:12:30] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:12:30] Loaded 168 vehicles from: vehicles/bone.txt
+[23:12:30] Loaded 61 vehicles from: vehicles/flint.txt
+[23:12:30] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:12:30] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:12:30] Total vehicles from files: 1781
+[23:12:30] 
+----------------------------------
+[23:12:30]  Basic GM Mysql R41-4
+[23:12:30] ----------------------------------
+
+[23:12:30] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:37:31] 
+[23:37:31] Server Plugins
+[23:37:31] --------------
+[23:37:31]  Loading plugin: crashdetect.so
+[23:37:31]   CrashDetect plugin 4.20
+[23:37:31]   Loaded.
+[23:37:31]  Loading plugin: mysql.so
+[23:37:31]  >> plugin.mysql: R41-4 successfully loaded.
+[23:37:31]   Loaded.
+[23:37:31]  Loading plugin: streamer.so
+[23:37:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:37:31]   Loaded.
+[23:37:31]  Loading plugin: sscanf.so
+[23:37:31] 
+
+[23:37:31]  ===============================
+
+[23:37:31]       sscanf plugin loaded.     
+
+[23:37:31]          Version:  2.8.3        
+
+[23:37:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:37:31]  ===============================
+
+[23:37:31]   Loaded.
+[23:37:31]  Loaded 4 plugins.
+
+[23:37:31] 
+[23:37:31] Filterscripts
+[23:37:31] ---------------
+[23:37:31]   Loading filterscript 'scar.amx'...
+[23:37:31]   Loaded 1 filterscripts.
+
+[23:37:31] [MySQL] Menghubungkan ke database...
+[23:37:31] [MySQL] Koneksi ke database berhasil! Menangani: 1
+[23:37:31] Loaded 3 vehicles from: vehicles/trains.txt
+[23:37:31] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:37:31] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:37:31] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:37:31] [debug] Long callback execution detected (hang or performance issue)
+[23:37:31] [debug] AMX backtrace:
+[23:37:31] [debug] #0 0000071c in ?? (182752, 182496, 44, 39) in new.amx
+[23:37:31] [debug] #1 00000488 in ?? (160916) in new.amx
+[23:37:31] [debug] #2 000009f0 in public OnGameModeInit () in new.amx
+[23:37:31] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:37:31] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:37:31] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:37:31] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:37:31] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:37:31] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:37:31] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:37:31] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:37:31] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:37:31] Loaded 168 vehicles from: vehicles/bone.txt
+[23:37:31] Loaded 61 vehicles from: vehicles/flint.txt
+[23:37:31] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:37:31] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:37:31] Total vehicles from files: 1781
+[23:37:31] 
+----------------------------------
+[23:37:31]  Basic GM Mysql R41-4
+[23:37:31] ----------------------------------
+
+[23:37:31] Number of vehicle models: 173
+[23:38:11] [connection] incoming connection: 140.213.128.114:4194 id: 0
+[23:38:12] [join] Lohee has joined the server (0:140.213.128.114)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:45:40] 
+[23:45:40] Server Plugins
+[23:45:40] --------------
+[23:45:40]  Loading plugin: crashdetect.so
+[23:45:40]   CrashDetect plugin 4.20
+[23:45:40]   Loaded.
+[23:45:40]  Loading plugin: mysql.so
+[23:45:40]  >> plugin.mysql: R41-4 successfully loaded.
+[23:45:40]   Loaded.
+[23:45:40]  Loading plugin: streamer.so
+[23:45:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:45:40]   Loaded.
+[23:45:40]  Loading plugin: sscanf.so
+[23:45:40] 
+
+[23:45:40]  ===============================
+
+[23:45:40]       sscanf plugin loaded.     
+
+[23:45:40]          Version:  2.8.3        
+
+[23:45:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:45:40]  ===============================
+
+[23:45:40]   Loaded.
+[23:45:40]  Loaded 4 plugins.
+
+[23:45:40] 
+[23:45:40] Filterscripts
+[23:45:40] ---------------
+[23:45:40]   Loading filterscript 'scar.amx'...
+[23:45:40]   Loaded 1 filterscripts.
+
+[23:45:40] [MySQL] Menghubungkan ke database...
+[23:45:40] [MySQL] Koneksi ke database berhasil! Menangani: 1
+[23:45:40] Loaded 3 vehicles from: vehicles/trains.txt
+[23:45:40] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:45:40] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:45:40] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:45:40] [debug] Long callback execution detected (hang or performance issue)
+[23:45:40] [debug] AMX backtrace:
+[23:45:40] [debug] #0 00000780 in ?? (182712, 182456, 44, 4) in new.amx
+[23:45:40] [debug] #1 000002b4 in ?? (160876) in new.amx
+[23:45:40] [debug] #2 000009f0 in public OnGameModeInit () in new.amx
+[23:45:40] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:45:40] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:45:40] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:45:40] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:45:40] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:45:40] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:45:40] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:45:40] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:45:40] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:45:40] Loaded 168 vehicles from: vehicles/bone.txt
+[23:45:40] Loaded 61 vehicles from: vehicles/flint.txt
+[23:45:40] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:45:40] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:45:40] Total vehicles from files: 1781
+[23:45:40] 
+----------------------------------
+[23:45:40]  Basic GM Mysql R41-4
+[23:45:40] ----------------------------------
+
+[23:45:40] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:47:55] 
+[23:47:55] Server Plugins
+[23:47:55] --------------
+[23:47:55]  Loading plugin: crashdetect.so
+[23:47:55]   CrashDetect plugin 4.20
+[23:47:55]   Loaded.
+[23:47:55]  Loading plugin: mysql.so
+[23:47:55]  >> plugin.mysql: R41-4 successfully loaded.
+[23:47:55]   Loaded.
+[23:47:55]  Loading plugin: streamer.so
+[23:47:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:47:55]   Loaded.
+[23:47:55]  Loading plugin: sscanf.so
+[23:47:55] 
+
+[23:47:55]  ===============================
+
+[23:47:55]       sscanf plugin loaded.     
+
+[23:47:55]          Version:  2.8.3        
+
+[23:47:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:47:55]  ===============================
+
+[23:47:55]   Loaded.
+[23:47:55]  Loaded 4 plugins.
+
+[23:47:55] 
+[23:47:55] Filterscripts
+[23:47:55] ---------------
+[23:47:55]   Loading filterscript 'scar.amx'...
+[23:47:55]   Loaded 1 filterscripts.
+
+[23:47:55] [MySQL] Menghubungkan ke database...
+[23:47:55] [MySQL] Koneksi ke database berhasil! Menangani: 1
+[23:47:55] Loaded 3 vehicles from: vehicles/trains.txt
+[23:47:55] Loaded 3 vehicles from: vehicles/pilots.txt
+[23:47:55] Loaded 15 vehicles from: vehicles/lv_law.txt
+[23:47:55] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[23:47:55] [debug] Long callback execution detected (hang or performance issue)
+[23:47:55] [debug] AMX backtrace:
+[23:47:55] [debug] #0 000007b0 in ?? (182712, 182456, 44, 28) in new.amx
+[23:47:55] [debug] #1 000003ec in ?? (160876) in new.amx
+[23:47:55] [debug] #2 000009f0 in public OnGameModeInit () in new.amx
+[23:47:55] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[23:47:55] Loaded 38 vehicles from: vehicles/sf_law.txt
+[23:47:55] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[23:47:55] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[23:47:55] Loaded 24 vehicles from: vehicles/ls_law.txt
+[23:47:55] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[23:47:55] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[23:47:55] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[23:47:55] Loaded 71 vehicles from: vehicles/whetstone.txt
+[23:47:55] Loaded 168 vehicles from: vehicles/bone.txt
+[23:47:55] Loaded 61 vehicles from: vehicles/flint.txt
+[23:47:55] Loaded 96 vehicles from: vehicles/tierra.txt
+[23:47:55] Loaded 96 vehicles from: vehicles/red_county.txt
+[23:47:55] Total vehicles from files: 1781
+[23:47:55] 
+----------------------------------
+[23:47:55]  Basic GM Mysql R41-4
+[23:47:55] ----------------------------------
+
+[23:47:55] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:51] 
+[00:14:51] Server Plugins
+[00:14:51] --------------
+[00:14:51]  Loading plugin: crashdetect.so
+[00:14:51]   CrashDetect plugin 4.20
+[00:14:51]   Loaded.
+[00:14:51]  Loading plugin: mysql.so
+[00:14:51]  >> plugin.mysql: R41-4 successfully loaded.
+[00:14:51]   Loaded.
+[00:14:51]  Loading plugin: streamer.so
+[00:14:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:14:51]   Loaded.
+[00:14:51]  Loading plugin: sscanf.so
+[00:14:51] 
+
+[00:14:51]  ===============================
+
+[00:14:51]       sscanf plugin loaded.     
+
+[00:14:51]          Version:  2.8.3        
+
+[00:14:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:14:51]  ===============================
+
+[00:14:51]   Loaded.
+[00:14:51]  Loaded 4 plugins.
+
+[00:14:51] 
+[00:14:51] Filterscripts
+[00:14:51] ---------------
+[00:14:51]   Loading filterscript 'scar.amx'...
+[00:14:51]   Loaded 1 filterscripts.
+
+[00:14:51] [MySQL] Menghubungkan ke database...
+[00:14:51] [MySQL] Koneksi ke database berhasil! Menangani: 1
+[00:14:51] Loaded 3 vehicles from: vehicles/trains.txt
+[00:14:51] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:14:51] [debug] Long callback execution detected (hang or performance issue)
+[00:14:51] [debug] AMX backtrace:
+[00:14:51] [debug] #0 000007e8 in ?? (182752, 182496, 44, 3) in new.amx
+[00:14:51] [debug] #1 000001bc in ?? (160740) in new.amx
+[00:14:51] [debug] #2 00000980 in public OnGameModeInit () in new.amx
+[00:14:51] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:14:51] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:14:51] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:14:51] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:14:51] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:14:51] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:14:51] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:14:51] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:14:51] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:14:51] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:14:51] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:14:51] Loaded 168 vehicles from: vehicles/bone.txt
+[00:14:51] Loaded 61 vehicles from: vehicles/flint.txt
+[00:14:51] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:14:51] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:14:51] Total vehicles from files: 1781
+[00:14:51] 
+----------------------------------
+[00:14:51]  Basic GM Mysql R41-4
+[00:14:51] ----------------------------------
+
+[00:14:51] Number of vehicle models: 173
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:00] 
+[00:15:00] Server Plugins
+[00:15:00] --------------
+[00:15:00]  Loading plugin: crashdetect.so
+[00:15:00]   CrashDetect plugin 4.20
+[00:15:00]   Loaded.
+[00:15:00]  Loading plugin: mysql.so
+[00:15:00]  >> plugin.mysql: R41-4 successfully loaded.
+[00:15:00]   Loaded.
+[00:15:00]  Loading plugin: streamer.so
+[00:15:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:15:00]   Loaded.
+[00:15:00]  Loading plugin: sscanf.so
+[00:15:00] 
+
+[00:15:00]  ===============================
+
+[00:15:00]       sscanf plugin loaded.     
+
+[00:15:00]          Version:  2.8.3        
+
+[00:15:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:15:00]  ===============================
+
+[00:15:00]   Loaded.
+[00:15:00]  Loaded 4 plugins.
+
+[00:15:00] 
+[00:15:00] Filterscripts
+[00:15:00] ---------------
+[00:15:00]   Loading filterscript 'scar.amx'...
+[00:15:00]   Loaded 1 filterscripts.
+
+[00:15:00] [MySQL] Menghubungkan ke database...
+[00:15:00] [MySQL] Koneksi ke database berhasil! Menangani: 1
+[00:15:00] Loaded 3 vehicles from: vehicles/trains.txt
+[00:15:00] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:15:00] [debug] Long callback execution detected (hang or performance issue)
+[00:15:00] [debug] AMX backtrace:
+[00:15:00] [debug] #0 000007e8 in ?? (182752, 182496, 44, 3) in new.amx
+[00:15:00] [debug] #1 000001bc in ?? (160740) in new.amx
+[00:15:00] [debug] #2 00000980 in public OnGameModeInit () in new.amx
+[00:15:00] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:15:00] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:15:00] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:15:00] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:15:00] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:15:00] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:15:00] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:15:00] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:15:00] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:15:00] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:15:00] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:15:00] Loaded 168 vehicles from: vehicles/bone.txt
+[00:15:00] Loaded 61 vehicles from: vehicles/flint.txt
+[00:15:00] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:15:00] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:15:00] Total vehicles from files: 1781
+[00:15:00] 
+----------------------------------
+[00:15:00]  Basic GM Mysql R41-4
+[00:15:00] ----------------------------------
+
+[00:15:00] Number of vehicle models: 173
+[00:15:16] [connection] incoming connection: 140.213.128.114:32799 id: 0
+[00:15:20] [join] Lohee has joined the server (0:140.213.128.114)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:20:08] 
+[00:20:08] Server Plugins
+[00:20:08] --------------
+[00:20:08]  Loading plugin: crashdetect.so
+[00:20:08]   CrashDetect plugin 4.20
+[00:20:08]   Loaded.
+[00:20:08]  Loading plugin: mysql.so
+[00:20:08]  >> plugin.mysql: R41-4 successfully loaded.
+[00:20:08]   Loaded.
+[00:20:08]  Loading plugin: streamer.so
+[00:20:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:20:08]   Loaded.
+[00:20:08]  Loading plugin: sscanf.so
+[00:20:08] 
+
+[00:20:08]  ===============================
+
+[00:20:08]       sscanf plugin loaded.     
+
+[00:20:08]          Version:  2.8.3        
+
+[00:20:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:20:08]  ===============================
+
+[00:20:08]   Loaded.
+[00:20:08]  Loaded 4 plugins.
+
+[00:20:08] 
+[00:20:08] Filterscripts
+[00:20:08] ---------------
+[00:20:08]   Loading filterscript 'scar.amx'...
+[00:20:08]   Loaded 1 filterscripts.
+
+[00:20:08] [MySQL] Menghubungkan ke database...
+[00:20:08] [MySQL] Koneksi ke database berhasil! Menangani: 1
+[00:20:08] Loaded 3 vehicles from: vehicles/trains.txt
+[00:20:08] Loaded 3 vehicles from: vehicles/pilots.txt
+[00:20:08] Loaded 15 vehicles from: vehicles/lv_law.txt
+[00:20:08] Loaded 39 vehicles from: vehicles/lv_airport.txt
+[00:20:08] [debug] Long callback execution detected (hang or performance issue)
+[00:20:08] [debug] AMX backtrace:
+[00:20:08] [debug] #0 0000071c in ?? (182752, 182496, 44, 39) in new.amx
+[00:20:08] [debug] #1 00000488 in ?? (160916) in new.amx
+[00:20:08] [debug] #2 000009f0 in public OnGameModeInit () in new.amx
+[00:20:08] Loaded 255 vehicles from: vehicles/lv_gen.txt
+[00:20:08] Loaded 38 vehicles from: vehicles/sf_law.txt
+[00:20:08] Loaded 35 vehicles from: vehicles/sf_airport.txt
+[00:20:08] Loaded 353 vehicles from: vehicles/sf_gen.txt
+[00:20:08] Loaded 24 vehicles from: vehicles/ls_law.txt
+[00:20:08] Loaded 37 vehicles from: vehicles/ls_airport.txt
+[00:20:08] Loaded 98 vehicles from: vehicles/ls_gen_inner.txt
+[00:20:08] Loaded 389 vehicles from: vehicles/ls_gen_outer.txt
+[00:20:08] Loaded 71 vehicles from: vehicles/whetstone.txt
+[00:20:08] Loaded 168 vehicles from: vehicles/bone.txt
+[00:20:08] Loaded 61 vehicles from: vehicles/flint.txt
+[00:20:08] Loaded 96 vehicles from: vehicles/tierra.txt
+[00:20:08] Loaded 96 vehicles from: vehicles/red_county.txt
+[00:20:08] Total vehicles from files: 1781
+[00:20:08] 
+----------------------------------
+[00:20:08]  Basic GM Mysql R41-4
+[00:20:08] ----------------------------------
+
+[00:20:08] Number of vehicle models: 173
+[00:20:11] [connection] incoming connection: 140.213.128.114:51762 id: 0
+[00:20:13] [join] Lohee has joined the server (0:140.213.128.114)
+[00:20:53] [part] Lohee has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:51:09] 
+[09:51:09] Server Plugins
+[09:51:09] --------------
+[09:51:09]  Loading plugin: crashdetect.so
+[09:51:12]   Failed.
+[09:51:12]  Loading plugin: mysql.so
