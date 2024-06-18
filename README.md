@@ -54,7 +54,7 @@
    - Berikut adalah contoh kode untuk sistem admin:
 
      ```pawn
-     // File: admin_system.pwn
+     // File: scar.pwn
 
      // Fungsi untuk memeriksa apakah pemain adalah admin
      bool IsPlayerAdmin(playerid)
