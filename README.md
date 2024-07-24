@@ -1,3 +1,11 @@
+hello everyone I am sharing this but here it is written in Indonesian because it was written by Ai So maybe this is our last version and you will continue this gamemode because it is still not there lots of features, thank you 
+
+**Check WikiMe** : https://github.com/iTeam75/samp-v1.0.5/wiki#fitur
+explanation of the code : https://baynnniq.my.id/showthread.php?tid=2
+---
+Note : register to see the code explanation
+---
+
 ## Credits
 
 - **LNH ShiroNeko**: Kontributor utama dan pengembang inti proyek ini.
