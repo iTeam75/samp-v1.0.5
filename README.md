@@ -5,9 +5,6 @@ Database in Gamemode Folder
 ## plans for the next update
 ```
 gamemodes/
-├── new.pwn             # Main game mode script
-├── new.amx             # Compiled game mode script
-├── samp_db.sql         # SQL file for database setup
 ├── quests.pwn          # Script for quest system
 ├── levels.pwn          # Script for level and experience system
 ├── economy.pwn         # Script for complex economy system
