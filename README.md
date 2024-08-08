@@ -1,5 +1,6 @@
 ---
-Note : *This is open source so you are free to change it, except remove the credits*
+Note : *This is open source so you are free to change it, except remove the credits* 
+Database in Gamemode Folder
 ---
 ## Credits
 
