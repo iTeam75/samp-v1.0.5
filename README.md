@@ -19,8 +19,8 @@ gamemodes/
 
 ## Credits
 
-- **LNH ShiroNeko**: Kontributor utama dan pengembang inti proyek ini.
+- **iTeam75**: Main contributor and core developer of this project.
 - **Baynnniq**: just share the results of them and Re-make This Gamemode.
-- **Comunitas SAMP**: Terima kasih atas dukungan dan kontribusi dari seluruh anggota komunitas.
+- **Comunitas SAMP**: Thank you for the support and contributions from all community members.
 
-Kami menghargai kerja keras dan dedikasi dari semua orang yang terlibat dalam proyek ini.
+We appreciate the hard work and dedication of everyone involved in this project.
