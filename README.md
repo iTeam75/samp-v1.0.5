@@ -22,5 +22,6 @@ gamemodes/
 - **iTeam75**: Main contributor and core developer of this project.
 - **Baynnniq**: just share the results of them and Re-make This Gamemode.
 - **Comunitas SAMP**: Thank you for the support and contributions from all community members.
+- **Forum** : http://iteam.rf.gd/
 
 We appreciate the hard work and dedication of everyone involved in this project.
