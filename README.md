@@ -17,6 +17,12 @@ gamemodes/
 ├── health_injury.pwn   # Script for health and injury system
 ```
 
+| Version | Updated        |
+| ------- | ------------------ |
+| V1.0.5  | :white_check_mark: |
+| V1.0.9  | ⌛                |
+
+
 ## Credits
 
 - **iTeam75**: Main contributor and core developer of this project.
